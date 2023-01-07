@@ -1,0 +1,2 @@
+# testamount
+my new amount
