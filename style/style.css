@@ -1,4 +1,16 @@
-body{
-    background-color: black;
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.red{
+    background-color: rgb(190, 32, 32);
+    height: 344px;
+    color: white;
+}
+.green{
+    background-color: green;
     color: white;
 }
